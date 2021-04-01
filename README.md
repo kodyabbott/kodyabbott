@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning python and security.
+- 📫 How to reach me: https://www.linkedin.com/in/kody-abbott/
+
 <!--
 **kodyabbott/kodyabbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
