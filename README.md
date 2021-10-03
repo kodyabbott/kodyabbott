@@ -1,3 +1,6 @@
+
+![Kody Abbott](https://github.com/kodyabbott/kodyabbott/raw/main/kody%20abbott.png)
+
 ### Hi there 👋
 
 - 🌱  I’m currently learning python and security.
