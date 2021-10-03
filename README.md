@@ -1,5 +1,5 @@
 
-![Kody Abbott](hhttps://github.com/kodyabbott/kodyabbott/raw/main/Cloud%20Architect.png)
+![Kody Abbott](https://github.com/kodyabbott/kodyabbott/raw/main/Cloud%20Architect.png)
 
 ### Hi there 👋
 
