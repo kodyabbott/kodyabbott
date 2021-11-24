@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱  I’m currently learning python and security.
+- 🌱  I’m currently learning python, java, and all things cloud.
 - 📫  How to reach me: https://www.linkedin.com/in/kody-abbott/
 
 <!--
