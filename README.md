@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=kodyabbott&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodyabbott&layout=compact)
+![Profile views](https://gpvc.arturio.dev/kodyabbott)   
