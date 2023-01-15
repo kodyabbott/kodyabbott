@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kodyabbott&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=kodyabbott&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodyabbott&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=kodyabbott&layout=compact&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/kodyabbott)
