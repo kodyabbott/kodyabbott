@@ -1,4 +1,4 @@
-![Kody Abbott](https://github.com/kodyabbott/kodyabbott/blob/main/kodyabbottheader.png)
+
 
 ### Hi there 👋
 
