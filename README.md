@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=kodyabbott&layout=compact&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/kodyabbott)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
