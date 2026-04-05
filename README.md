@@ -1,24 +1,22 @@
-<!--
+### Kody Abbott
 
-### Hi there 👋
+Building AI agents and researching how to make them safe.
 
-- 🌱  I’m currently learning python, java, and all things cloud.
-- 📫  How to reach me: https://www.linkedin.com/in/kody-abbott/
+Currently running a personal AI agent ([OpenClaw](https://openclaw.ai/) + Claude) and studying how capability combinations create risk in autonomous systems.
 
-**kodyabbott/kodyabbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Work
+
+- [**research**](https://github.com/kodyabbott/research) -- AI agent safety research, learning in public. Investigating Jensen Huang's GTC 2026 capability constraints and Simon Willison's Lethal Trifecta.
+
+### Links
+
+- [kodyabbott.com](https://kodyabbott.com)
+- [LinkedIn](https://www.linkedin.com/in/kody-abbott/)
+
+---
 
 ![Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=kodyabbott&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=kodyabbott&layout=compact&theme=tokyonight)
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile views](https://komarev.com/ghpvc/?username=kodyabbott)
