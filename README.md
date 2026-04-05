@@ -7,6 +7,7 @@ Currently running a personal AI agent ([OpenClaw](https://openclaw.ai/) + Claude
 ### Current Work
 
 - [**research**](https://github.com/kodyabbott/research) -- AI agent safety research, learning in public. Investigating Jensen Huang's GTC 2026 capability constraints and Simon Willison's Lethal Trifecta.
+- [**kodyabbott.com**](https://github.com/kodyabbott/kodyabbott.com) -- Personal site
 
 ### Links
 
