@@ -4,7 +4,7 @@ Senior Cloud Engineer. MSc Cybersecurity. Ranch kid turned cloud architect turne
 
 I grew up on a cattle ranch in Duchesne, Utah, taught myself to build websites before I had reliable internet, got a degree in hospitality, managed 5-star resorts, then pivoted to tech 15 years ago. Today I build cloud infrastructure, hold seven certs across AWS, GCP, and CompTIA, and run a 10G home network for fun.
 
-Currently deep in agentic engineering and AI agent safety research -- evaluating NVIDIA DGX/enterprise AI infrastructure and studying how capability combinations create risk in autonomous systems.
+Currently deep in agentic engineering and AI agent safety research -- evaluating NVIDIA DGX/enterprise AI infrastructure.
 
 ### Current Work
 
