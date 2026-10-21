@@ -17,11 +17,11 @@ AWS Solutions Architect Professional | AWS Solutions Architect Associate | AWS D
 
 ### Links
 
-[kodyabbott.com](https://kodyabbott.com) | [abbott-ai.com](https://abbott-ai.com) | [techkody.com](https://techkody.com) | [TikTok @tech_kody](https://tiktok.com/@tech_kody) | [YouTube](https://www.youtube.com/@tech_kody) | [LinkedIn](https://www.linkedin.com/in/kody-abbott/) | [Discord](https://discord.gg/techkody)
+[kodyabbott.com](https://kodyabbott.com) | [abbott.ai](https://abbott.ai) | [techkody.com](https://techkody.com) | [TikTok @tech_kody](https://tiktok.com/@tech_kody) | [YouTube](https://www.youtube.com/@tech_kody) | [LinkedIn](https://www.linkedin.com/in/kody-abbott/) | [Discord](https://discord.gg/techkody)
 
 ### Contact
 
-kody@kodyabbott.com | kody@abbott-ai.com
+kody@kodyabbott.com | kody@abbott.ai
 
 ---
 
